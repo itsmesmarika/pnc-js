@@ -1,0 +1,47 @@
+# Making table 
+
+**Html**
+
+```
+ 
+        <table border="1">
+            
+            <thead>
+                <th>NAME</th>
+                <th>CLASS</th>
+                <th>ROLLNO</th>
+                <th>SECTION</th>
+
+            </thead>
+            <tbody>
+                <tr>
+                    <td>SMarika</td>
+                    <td>14</td>
+                    <td>32</td>
+                    <td>A</td>
+
+                </tr>
+                <tr>
+                    <td>Saugat</td>
+                    <td>14</td>
+                    <td>21</td>
+                    <td>A</td>
+                
+                </tr>
+                <tr>
+                    <td>Anish</td>
+                    <td>11</td>
+                    <td>31</td>
+                    <td>D</td>
+                </tr>
+                <tr>
+                    <td>Bishal</td>
+                    <td>12</td>
+                    <td>2</td>
+                    <td>D</td>
+                </tr>
+            </tbody>
+
+        </table>
+
+ ```
